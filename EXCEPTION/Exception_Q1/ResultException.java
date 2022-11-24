@@ -1,0 +1,10 @@
+package Exception_Q1;
+
+public class ResultException extends RuntimeException {
+
+	public ResultException(String s) {
+		super(s);
+
+	}
+
+}
